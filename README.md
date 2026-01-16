@@ -77,6 +77,22 @@ I enjoy learning by building and have hands-on experience developing practical D
 
 ---
 
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:adwaidajayantc22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adwaida22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/adwaid20">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ⭐ *Learning every day, building with purpose, and growing into a full-stack developer.*  
 
 
