@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Adwaid TC 👋</h1>
+<h1 align="center">✨ Hi, I'm Adwaid A 👋</h1>
 
 <p align="center">
   🎓 BTech in Electronics • Python Full Stack Learner • 🚀 Django & Web Development Enthusiast
