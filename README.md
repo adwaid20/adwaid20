@@ -58,7 +58,7 @@ I'm now expanding that foundation into a broader **full-stack skill set**, activ
 
 ### 🔭 Projects
 
-**🏫 Institution Management Web Application**
+**🏫 LEARNING MANAGEMENT SYSTEM (LMS) **
 A Django-based system built for deployment in an institution.
 - Student attendance management
 - Reviews and feedback module
@@ -66,7 +66,7 @@ A Django-based system built for deployment in an institution.
 - Admin and user role handling
 - Database-driven application functionality
 
-**📚 Library Management System**
+**📚 Library Web Application**
 A Django-based web application for managing books and users.
 - CRUD operations
 - Django ORM
